@@ -1,0 +1,7 @@
+# This code is a replication of the Annotated Transformer repository/paper, with bug fixes and updates implemented in 2023.
+# Additionally, a metal version of the code has been implemented.
+# For more information on the original paper and repository, please refer to the following links:
+# - Paper: https://arxiv.org/abs/1706.03762
+# - Annotated Transformer: http://nlp.seas.harvard.edu/annotated-transformer/#background
+# - Repository: https://github.com/harvardnlp/annotated-transformer
+
